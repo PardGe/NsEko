@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "date": "2026-06-08",
+  "notes": "修复若干问题",
+  "lanzou_url": "https://pardge.lanzouw.com/iv7c23rbfyne",
+  "lanzou_pwd": "nfight"
+}
