@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "date": "2026-06-08",
+  "version": "1.0.1",
+  "date": "2026-06-15",
   "notes": "正式发布\n欢迎使用",
   "nseko_url": "https://pardge.lanzouw.com/b01d704fmj",
   "nseko_pwd": "EchoNest"
