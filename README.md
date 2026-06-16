@@ -42,7 +42,7 @@ SHA256 : 0cf05e9290ec4080f98c62cde90e677af92473d987daadf16a5b327b31aa8a35
 
 ## 快速使用
 
-见 软件。或参考https://www.bilibili.com/opus/1214416691776192516中图解
+见 软件。或参考贴图：https://www.bilibili.com/opus/1214416691776192516
 
 ## 更新日志
 
